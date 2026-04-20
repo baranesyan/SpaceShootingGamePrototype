@@ -43,7 +43,8 @@ The goal is to survive, destroy enemies, and achieve the highest score possible.
 
 This project uses third-party assets from the Unity Asset Store.
 
-These assets are used under the Unity Asset Store license for non-commercial/educational purposes.
+
+These assets are available for free use under the Unity Asset Store license.
 All rights and ownership belong to the original creators.
 
 Credits:
